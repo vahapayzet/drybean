@@ -1,4 +1,4 @@
-# 🫘 Dry Bean Dataset Üzerinde Makine Öğrenmesi Pipeline Uygulaması
+# Dry Bean Dataset Üzerinde Makine Öğrenmesi Pipeline Uygulaması
 
 Bu projede, UCI Machine Learning Repository'den alınan Dry Bean Dataset kullanılarak uçtan uca bir makine öğrenmesi süreci uygulanmıştır.
 
